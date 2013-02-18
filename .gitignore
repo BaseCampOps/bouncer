@@ -1,0 +1,5 @@
+# Ignore OS X finder files and workspace files
+*.DS_Store
+*.esproj
+*.swp
+*.sublime*
